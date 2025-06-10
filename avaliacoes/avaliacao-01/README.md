@@ -1,3 +1,4 @@
+Executar as seguintes etapas para concluir essa atividade:
 1) Criar uma conta no GitHub;
 
 2) Criar um repositório chamado bd-251;
