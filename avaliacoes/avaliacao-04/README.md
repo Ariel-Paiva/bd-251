@@ -1,1 +1,3 @@
-# Avaliaá∆o 04 
+Executar o prompt-01.
+Evidenciar o print da execu√ß√£o mostrando o conte√∫do da tabela criada. 
+Postar o print no Github e o link do Github no GoogleClassroom.
